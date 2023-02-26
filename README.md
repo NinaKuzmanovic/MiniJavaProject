@@ -17,6 +17,9 @@ new game and randomly colors one program button yellow every 0.25 seconds. When 
 yellow program buttons require the player to click on all program buttons in the same order. For the correct order
 the square turns green again. The goal is to repeat the sequence followed by a congratulatory message.
 
+Very important:
+For the second task, it is necessary to change the path of the directory in the main class and in the file server class, that is, they should be created.
+
 
 
 
